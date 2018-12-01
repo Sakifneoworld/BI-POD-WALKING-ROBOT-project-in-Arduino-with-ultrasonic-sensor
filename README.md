@@ -1,8 +1,8 @@
 # BI-POD-WALKING-ROBOT-project-in-Arduino-with-ultrasonic-sensor
 
-##Peripheral Project
+## Peripheral Project
 
-##Equipments:
+## Equipments:
 1. Arduino.
 2. Breadboard.
 3. LED.
